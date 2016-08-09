@@ -16,6 +16,7 @@ def create_character():
     name = str(raw_input("Whispers come from the north, what are they saying? "))
     # you get input with raw_input("prompt")
     # you usually want to cast it to the type you want, e.g. int, str, etc.
+    # so that's like intelligence and strength, what about dex, wisdom, constitution, and charisma? huehue
     return name
 
 if __name__ == "__main__":
