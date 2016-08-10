@@ -39,3 +39,7 @@ if __name__ == "__main__":
     print ("\n")
     print (" 'It is okay, my little "+ p1["name"] + ". I will guide you.")
     print ("\n")
+    print (" The gorilla gently fondles his member and conjures a thin telescoping rod to which your phone attaches perfectly.")
+    print ("\n")
+    print (" 'This mighty weapon is called Memebringer.  Use it wisely.'")
+    
